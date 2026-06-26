@@ -105,7 +105,7 @@ Tujuan dari pengembangan SmartNet:
 ### 1. Clone repository
 
 ```bash
-git clone 
+git clone https://github.com/Azispanji24/Smartnet.git
 ```
 
 ### 2. Pindahkan project ke folder:
@@ -196,6 +196,5 @@ Menyimpan histori perubahan status perangkat
 
 ## 👨‍💻 Author
 
-Al Khawarizmi
-
+Azis Panji Gumilang
 Informatics Engineering — UIN Bandung
